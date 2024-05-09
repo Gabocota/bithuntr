@@ -1,6 +1,6 @@
 # bithuntr
 A simple text-based captcha to protect the internet against GPT and other bots.
-
+------------------------------------------------------------------------
 A few months ago, I was fooling around with Chat-GPT and I realized that it has a very poor understanding of letters in words.
 
 <img src="https://github.com/Gabocota/bithuntr/assets/88735758/555c8055-98a6-4c01-b9bb-c7ef400d3c8f" height="200px">
