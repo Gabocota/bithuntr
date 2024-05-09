@@ -22,5 +22,5 @@ This makes it almost impossible to code a script to obtain the actual problem pa
 
 It is true that Chat-GPT isn't totally useless and sometimes it does get it right. To go around this every word in the word list was first checked to make sure GPT gets it wrong the overwhelmingly majority of time.
 
-<img src="https://github.com/Gabocota/bithuntr/assets/88735758/50358df4-a4d9-4387-a212-b6772e69d2f5">
+<img src="https://github.com/Gabocota/bithuntr/assets/88735758/50358df4-a4d9-4387-a212-b6772e69d2f5" height="200px">
 
