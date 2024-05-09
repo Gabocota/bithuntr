@@ -18,3 +18,6 @@ To prevent this the user is prompted with different wording every time.
 This makes it almost impossible to code a script to obtain the actual problem parts.
 
 It is true that Chat-GPT isn't a totally useless and sometimes it does get it right. To go arround this every word in the word list was first checked to make sure GPT gets it wrong the overwhelmingly mayority of time.
+
+![image](https://github.com/Gabocota/bithuntr/assets/88735758/50358df4-a4d9-4387-a212-b6772e69d2f5)
+
